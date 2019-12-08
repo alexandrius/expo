@@ -22,8 +22,8 @@
     "regenerator-runtime": "^0.13.2"
   },
   "devDependencies": {
-    "babel-preset-expo": "~7.0.0",
-    "expo-yarn-workspaces": "^1.2.0"
+    "babel-preset-expo": "~7.1.0",
+    "expo-yarn-workspaces": "^1.2.1"
   },
   "private": true
 }
